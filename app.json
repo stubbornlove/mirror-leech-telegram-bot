@@ -7,7 +7,7 @@
         "video-extract",
         "pyrogram"
     ],
-    "repository": "https://github.com/ikunalx/Kunal-URL-Uploader",
+    "repository": "https://github.com/stubbornlove/mirror-leech-telegram-bot",
     "success_url": "https://t.me/mathssbyadityaranjansirr",
     "stack": "container",
     "env": {
